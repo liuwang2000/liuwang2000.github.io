@@ -12,17 +12,16 @@ image_caption: testing post caption
 permalink: /welcome/
 ---
 
-## Introduction
-
+## 介绍
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-## Little more
+## 更多
 
 Jekyll also offers powerful support for code snippets:
 
-### Code
+### 代码
 
 {% highlight ruby %}
 def print_hi(name)
@@ -36,7 +35,7 @@ print_hi('Tom')
 
 ### Simple blockquote
 
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat
+>这是什么看看
 > a ante.
 
 *Someone famous in Source Title*
@@ -50,7 +49,7 @@ NOTE: Markdown has no support for citation, hence use html.
   <footer>Someone famous in <cite title="Source Title">Source Title</cite></footer>
 </blockquote>
 
-## What else?
+## 其他的?
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
